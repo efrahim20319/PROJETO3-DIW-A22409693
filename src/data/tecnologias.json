@@ -1,0 +1,75 @@
+[
+    {
+      "title": "HTML",
+      "image": "/images/html-logo.png",
+      "description": "Linguagem de marcação para estruturar páginas web.",
+      "rating": 5
+    },
+    {
+      "title": "CSS",
+      "image": "/images/css-logo.png",
+      "description": "Estilo e design para páginas web.",
+      "rating": 5
+    },
+    {
+      "title": "JavaScript",
+      "image": "/images/js-logo.png",
+      "description": "Linguagem de programação para interatividade web.",
+      "rating": 5
+    },
+    {
+      "title": "JSON",
+      "image": "/images/json-logo.png",
+      "description": "Formato de dados leve e fácil de ler.",
+      "rating": 4
+    },
+    {
+      "title": "API RESTful",
+      "image": "/images/api-logo.png",
+      "description": "Padrão de arquitetura para APIs.",
+      "rating": 5
+    },
+    {
+      "title": "Swagger",
+      "image": "/images/swagger-logo.png",
+      "description": "Ferramenta para documentação de APIs.",
+      "rating": 4
+    },
+    {
+      "title": "GitHub",
+      "image": "/images/github-logo.png",
+      "description": "Plataforma para controlo de versões.",
+      "rating": 5
+    },
+    {
+      "title": "Codespaces",
+      "image": "/images/codespaces-logo.png",
+      "description": "Ambiente de desenvolvimento na cloud.",
+      "rating": 4
+    },
+    {
+      "title": "GitHub Pages",
+      "image": "/images/gh-pages-logo.png",
+      "description": "Hospedagem de páginas web diretamente do GitHub.",
+      "rating": 4
+    },
+    {
+      "title": "React.js",
+      "image": "/images/react-logo.png",
+      "description": "Biblioteca JavaScript para interfaces de utilizador.",
+      "rating": 5
+    },
+    {
+      "title": "Next.js",
+      "image": "/images/nextjs-logo.png",
+      "description": "Framework React para aplicações web modernas.",
+      "rating": 5
+    },
+    {
+      "title": "Vercel",
+      "image": "/images/vercel-logo.png",
+      "description": "Plataforma de hospedagem para aplicações Next.js.",
+      "rating": 5
+    }
+  ]
+  
